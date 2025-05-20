@@ -2,6 +2,8 @@
 
 
 ### Date: 20/05
+#### Mentor: Aarush
+---
 
 
 #### CAP Theorem
